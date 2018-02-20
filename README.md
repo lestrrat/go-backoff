@@ -6,6 +6,10 @@ Backoff algorithm and helpers for Go
 
 [![GoDoc](https://godoc.org/github.com/lestrrat/go-backoff?status.svg)](https://godoc.org/github.com/lestrrat/go-backoff)
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/backoff](https://github.com/lestrrat-go/backoff). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 # SYNOPSIS
 
 ```go
